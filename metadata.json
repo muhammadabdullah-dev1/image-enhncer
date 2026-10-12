@@ -1,0 +1,6 @@
+{
+  "name": "PixelBoost AI - Batch Image Enhancer & Upscaler",
+  "description": "Batch upscale and enhance images by 2×, 3×, and 4× with AI detail recovery, noise reduction, and smart contrast balancing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
